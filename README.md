@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Nguyen Thi Kim Huong
 
-I'm a computer engineering student passionate about both **web development** and **PCB design**. I love building useful, real-world projects that combine hardware and software.
+I'm a computer engineering student passionate about both **web development** and **PCB design**.
 
 - 🌍 Based in Vietnam  
 - 🖥️ Portfolio: [profile.tenban.com](https://profile.tenban.com)  
@@ -18,10 +18,11 @@ I'm a computer engineering student passionate about both **web development** and
   <img alt="TypeScript" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
   <img alt="React" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
   <img alt="Node.js" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
-  <img alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
   <img alt="Firebase" width="30px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
-  <img alt="Figma" width="30px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
+  <img alt="C" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
+
 </p>
+
 
 ---
 
@@ -37,7 +38,14 @@ I'm a computer engineering student passionate about both **web development** and
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Languages
+
+- 🇬🇧 **English**: Intermediate – can read documentation, write code comments, communicate professionally  
+- 🇯🇵 **Japanese (日本語)**: Beginner – currently learning (N4 level), aiming for JLPT N3
+
+---
+
+### 🔗 Connect with Me
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/yourprofile)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
