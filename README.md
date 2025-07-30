@@ -33,7 +33,6 @@ I'm a computer engineering student passionate about both **web development** and
   - Routing, DRC, footprint management
   - Microcontrollers: Arduino, ESP32, STM32
   - Simulation and BOM generation
-- 📦 **Projects**: Sensor boards, power supply modules, IoT prototypes
 
 ---
 
