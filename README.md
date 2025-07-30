@@ -3,8 +3,7 @@
 I'm a computer engineering student passionate about both **web development** and **PCB design**.
 
 - 🌍 Based in Vietnam  
-- 🖥️ Portfolio: [profile.tenban.com](https://profile.tenban.com)  
-- 📬 Email: your.email@gmail.com  
+- 📬 Email: kimhwng03.email@gmail.com  
 
 ---
 
