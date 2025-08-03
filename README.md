@@ -12,16 +12,16 @@ I'm a computer engineering student passionate about both **web development** and
 <p>
   <img alt="HTML" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img alt="CSS" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-<img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="background-color: #f7df1e; border-radius: 5px;" />
-
+  <img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="background-color: #f7df1e; border-radius: 5px;" />
   <img alt="React" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
   <img alt="Firebase" width="30px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
+  <img alt="Java" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
   <img alt="C" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
   <img alt="C++" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
   <img alt="Python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   <img alt="MySQL" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
-
 </p>
+
 
 
 
